@@ -24,8 +24,8 @@ nav:
   - Home:
       - Home: index.md
   - Topicalism:
-      - Why Gonzo: topicalism/gonzo.md
-      - Topicalism: topicalism/manifesto.md
+      - why gonzo: topicalism/gonzo.md
+      - manifesto: topicalism/manifesto.md
 plugins:
   - search
   - include-markdown
