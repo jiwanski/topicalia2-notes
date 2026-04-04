@@ -1,0 +1,21 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-merge-conflict
+      - id: detect-private-key
+      - id: no-commit-to-branch
+        args: [--branch, main]   # block committing directly to main
+  # Markdown formatter (pins last Py3.8-compatible versions)
+  # - repo: https://github.com/executablebooks/mdformat
+  #   rev: 0.7.17
+  #   hooks:
+  #     - id: mdformat
+  #       language_version: python3.8
+  #       additional_dependencies:
+  #         - mdformat-frontmatter==2.0.8
+  #         - mdformat-tables==0.4.1
+  #         # If this causes trouble, remove the next line entirely.
+  #         # - mdformat-admon==2.0.6
