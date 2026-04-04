@@ -1,0 +1,11 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# MkDocs
+site/
+
+# OS cruft
+.DS_Store
+Thumbs.db

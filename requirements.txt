@@ -1,0 +1,11 @@
+mkdocs
+mkdocs-include-markdown-plugin
+mkdocs-material
+mkdocs-mermaid2-plugin
+pymdown-extensions
+mkdocs-redirects
+# markdown-include  # optional, if you want to include files into pages
+urllib3==1.26.6  # required for older systems because of error below
+# ImportError: urllib3 v2 only supports OpenSSL 1.1.1+,
+# currently the 'ssl' module is compiled with 'OpenSSL 1.0.2g  1 Mar 2016'.
+# See: https://github.com/urllib3/urllib3/issues/2168
