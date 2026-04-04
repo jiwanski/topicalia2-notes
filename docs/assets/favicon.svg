@@ -1,0 +1,7 @@
+<!-- docs/assets/favicon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" ry="96" fill="#009688" />
+  <path fill="#fff"
+    d="M128 176h112a32 32 0 0 1 32 32v160H160a32 32 0 0 1-32-32V208a32 32 0 0 1 32-32z" />
+  <path fill="#fff" d="M240 176h112a32 32 0 0 1 32 32v128a32 32 0 0 1-32 32H240V176z" />
+</svg>

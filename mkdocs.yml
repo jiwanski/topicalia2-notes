@@ -1,0 +1,66 @@
+site_name: Topicalia - Documentation
+dev_addr: 127.0.0.1:9015
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  features:
+  - navigation.sections
+  - navigation.indexes
+  - navigation.path
+  - navigation.tabs
+  - navigation.top
+  - navigation.tabs.sticky
+  - navigation.footer
+  - navigation.expand
+  - navigation.prune
+  - content.code.copy
+#  - toc.integrate
+  favicon: assets/favicon.svg   # or assets/favicon.ico if you skip SVG
+extra_css:
+  - assets/extra.css
+docs_dir: docs
+nav:
+  - Home:
+      - Home: index.md
+  - Topicalism:
+      - why gonzo: topicalism/gonzo.md
+      - manifesto: topicalism/manifesto.md
+plugins:
+  - search
+  - include-markdown
+markdown_extensions:
+  - admonition          # base admonitions
+  - pymdownx.details    # collapsible admonitions
+  - tables
+  - def_list            # definition lists (dt/dd)
+  - attr_list           # {: .class } on blocks, and :class: inside admonitions
+  - md_in_html          # parse Markdown inside raw HTML wrappers
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      use_pygments: true
+      pygments_lang_class: true
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
