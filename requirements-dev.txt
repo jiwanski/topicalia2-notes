@@ -1,0 +1,3 @@
+# requirements-dev.txt  (tools for contributors)
+pre-commit
+# (optional) mdformat, ruff, black, mypy, pytest, etc.

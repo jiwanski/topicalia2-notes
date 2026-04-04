@@ -1,0 +1,33 @@
+root = true
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+
+# Markdown: allow trailing spaces for hard line breaks
+[*.md]
+trim_trailing_whitespace = false
+# keep long lines as-is; wrapping is a formatter's job
+max_line_length = off
+
+# SVG/XML
+[*.svg]
+indent_style = space
+indent_size = 2
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+# JSON/YAML/TOML (common in notes/config)
+[*.{json,yml,yaml,toml}]
+indent_size = 2
+
+# Python (if you keep any scripts here)
+[*.py]
+indent_size = 4
+
+# Makefiles need tabs
+[Makefile]
+indent_style = tab
