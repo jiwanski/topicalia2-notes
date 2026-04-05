@@ -1,4 +1,4 @@
-site_name: Topicalia - Documentation
+site_name: Topicalia - documentation
 dev_addr: 127.0.0.1:9015
 theme:
   name: material
@@ -21,11 +21,10 @@ extra_css:
   - assets/extra.css
 docs_dir: docs
 nav:
-  - Home:
-      - Home: index.md
-  - Topicalism:
-      - why gonzo: topicalism/gonzo.md
-      - manifesto: topicalism/manifesto.md
+  - home:
+      - home: index.md
+  - gonzo:
+      - why gonzo?: topicalism/gonzo.md
 plugins:
   - search
   - include-markdown
@@ -34,7 +33,7 @@ markdown_extensions:
   - pymdownx.details    # collapsible admonitions
   - tables
   - def_list            # definition lists (dt/dd)
-  - attr_list           # {: .class } on blocks, and :class: inside admonitions
+  - attr_list           # {: .class } on blocks and :class: inside admonitions
   - md_in_html          # parse Markdown inside raw HTML wrappers
   - pymdownx.critic
   - pymdownx.caret
