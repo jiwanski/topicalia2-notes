@@ -33,7 +33,7 @@ markdown_extensions:
   - pymdownx.details    # collapsible admonitions
   - tables
   - def_list            # definition lists (dt/dd)
-  - attr_list           # {: .class } on blocks, and :class: inside admonitions
+  - attr_list           # {: .class } on blocks and :class: inside admonitions
   - md_in_html          # parse Markdown inside raw HTML wrappers
   - pymdownx.critic
   - pymdownx.caret
