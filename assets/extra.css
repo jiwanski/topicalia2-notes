@@ -1,0 +1,13 @@
+main.md-main {
+  --card-bg: #dfdfdf;
+}
+
+.tabbed-set {
+  padding: 1rem;
+  border: 1px dashed #797979;
+  border-radius: 0.5rem !important;
+}
+
+.md-typeset .grid.cards > ul > li {
+  background-color: var(--card-bg);
+}
