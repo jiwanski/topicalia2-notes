@@ -1,22 +1,22 @@
 # about
 
-**Topicalia** is a lightweight web application, aimed at offering an alternative take on studying foreign languages. It has reached a prototype phase while the content language of choice for now is Portuguese (author's passion).
+**Topicalia** is a lightweight web application that takes a slightly different approach to studying foreign languages, currently in a prototype phase, with Portuguese as its working language - partly by design, partly by passion.
+
 
 ## content
 
-The material is structured similarly to classic course book series:
+The material follows the rough outline of a course book series, though not too strictly:
 
 <div class="grid cards" markdown>
-- __A1-C2 levels__ adhering to  CEFR standard
-- unlimited __units__ per level
-- short, focused __lessons__, up to 10 per unit
-- thematic indexes - called __coverages__
+- __A1-C2 levels__ loosely aligned with CEFR
+- expandable __units__ per level
+- short, focused __lessons__, up to ten per unit
+- thematic indexes - referred to as __coverages__
 </div>
 
-Each lesson is accompanied by students' feedback, coming from fixed, named characters (personas) and temporary, anonymous reactions (moods).
+Each lesson is accompanied by student reactions, some coming from fixed, named characters (personas), others appearing briefly as anonymous moods.
 
-
->  In this way, **Topicalia is both a course and its commentary** while readers are **watching a small class work through the material**.
+>  In this way, **Topicalia is both a course and its commentary**, while readers are **watching a small class work through the material**, occasionally more closely than the material itself.
 
 <figure markdown="span">
   ![_](assets/screens/lesson-dual.png)
@@ -30,7 +30,8 @@ Each lesson is accompanied by students' feedback, coming from fixed, named chara
   <figcaption>students roster - personas and moods</figcaption>
 </figure>
 
-Personas are recognizable, consistent and have their particular twists, often touching language-wide features. Moods are short, anonymous reactions - quick impressions rather than full commentary.
+Personas are consistent enough to be recognizable, each carrying a particular bias or habit that tends to surface across lessons, sometimes drifting beyond the immediate topic. Moods, by contrast, appear briefly - short, anonymous reactions that register an impression and then disappear.
+
 
 <figure markdown="span">
   ![Image title](assets/screens/student-ines.png)
@@ -39,7 +40,7 @@ Personas are recognizable, consistent and have their particular twists, often to
 
 ## coverages
 
-Thanks to semantic markup in the content, Topicalia can generate indexes of what actually appears in lessons - grammar areas, exercise types, lesson categories and custom highlights.
+Because the content is marked semantically, Topicalia can generate indexes of what actually appears across lessons - grammar areas, exercise types, lesson categories and selected highlights that would otherwise remain scattered.
 
 <figure markdown="span">
   ![_](assets/screens/coverage-grammar.png)
@@ -48,14 +49,14 @@ Thanks to semantic markup in the content, Topicalia can generate indexes of what
 
 ## highlights
 
-Commonly marked words get their own highlight colour:
+Commonly marked words receive their own visual treatment:
 
 <figure markdown="span">
   ![_](assets/screens/highlights.png)
   <figcaption>highlights</figcaption>
 </figure>
 
-Idioms, collocations and registers are commonly emphasized features. A **special** category is reserved for language-specific features. In Portuguese, this highlights the **subjunctive**, which also has its own coverage listing.
+Idioms, collocations and registers tend to stand out. One category is reserved for language-specific features; in Portuguese, this becomes the **subjunctive**, which quietly accumulates its own coverage as it appears.
 
 <figure markdown="span">
   ![_](assets/screens/highlight-subjunctive.png)
@@ -64,27 +65,28 @@ Idioms, collocations and registers are commonly emphasized features. A **special
 
 ## AI use
 
-Content is currently AI-generated and then curated by hand. Over time, the balance may shift - but not towards full agentic automation. The goal is to keep AI as a tool in the loop, not the author of record.
+Content is currently AI-generated and then curated by hand, though not in a way that hands authorship over entirely. The intention is to keep AI somewhere in the loop - useful, visible but not quite in charge.
+
 
 ## what this is **not**
 
-Topicalia is not meant to become a:
+Topicalia is not meant to become:
 
-- gamified app (unless achievements stay purely educational)
-- grammar encyclopedia
-- chatbot tutor
+- a gamified app (unless achievements remain tied to actual learning)
+- a grammar encyclopedia
+- a chatbot tutor
 
 ## content development roadmap
 
-There is room to grow in two directions.
+There is room to grow in at least two directions, which may or may not converge.
 
 <div class="grid cards" markdown>
 - **top-down**<br/>shaping levels into a clearer CEFR-aligned syllabus
-- **grassroots**<br/>opening the content repository for contributing lessons and student voices
+- **grassroots**<br/>opening the repository to contributions - lessons, voices, even new languages
 </div>
 
 ## where to go next
 
-If you want to understand the spirit behind it, read:
+If you want to understand the underlying logic - or at least the atmosphere around it - read:
 
 * [why gonzo](topicalism/gonzo.md)

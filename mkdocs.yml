@@ -24,7 +24,7 @@ nav:
   - Home:
       - Home: index.md
   - Gonzo:
-      - Gonzo: topicalism/gonzo.md
+      - why gonzo?: topicalism/gonzo.md
 plugins:
   - search
   - include-markdown
