@@ -2,7 +2,7 @@
 
 The term inevitably points back to Hunter S. Thompson, whose name is inseparable from gonzo journalism - a form of reporting that places the reporter inside the story and, rather than pretending to stand at a neutral distance, moves through it with a mix of subjectivity, participation, satire and exaggeration that makes the act of observing indistinguishable from the act of altering.
 
-That lineage matters, though only up to a point. Topicalia is not interested in imitating Thompson’s prose, his politics, or his persona so much as in borrowing something quieter and more structural - the sense that distance is often a fiction, that the observer alters what is being observed simply by being there and that voice is not an accessory to information but part of it.
+That lineage matters, though only up to a point. Topicalia is not interested in imitating Thompson's prose, his politics, or his persona so much as in borrowing something quieter and more structural - the sense that distance is often a fiction, that the observer alters what is being observed simply by being there and that voice is not an accessory to information but part of it.
 
 > Commentary is part of the event.
 

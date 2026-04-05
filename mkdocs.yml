@@ -1,4 +1,4 @@
-site_name: Topicalia - Documentation
+site_name: Topicalia - documentation
 dev_addr: 127.0.0.1:9015
 theme:
   name: material
@@ -21,9 +21,9 @@ extra_css:
   - assets/extra.css
 docs_dir: docs
 nav:
-  - Home:
-      - Home: index.md
-  - Gonzo:
+  - home:
+      - home: index.md
+  - gonzo:
       - why gonzo?: topicalism/gonzo.md
 plugins:
   - search
