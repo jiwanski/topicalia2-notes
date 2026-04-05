@@ -1,23 +1,26 @@
 # about
 
-**Topicalia** is a lightweight web application, aimed at presenting an alternative take on studying foreign languages. It has reached a prototype phase while the content language of choice for demo purposes is Portuguese (author's passion).
+**Topicalia** is a lightweight web application, aimed at offering an alternative take on studying foreign languages. It has reached a prototype phase while the content language of choice for now is Portuguese (author's passion).
 
 ## content
 
-The material is structured similarly to classic course books series:
+The material is structured similarly to classic course book series:
 
 <div class="grid cards" markdown>
 - __A1-C2 levels__ adhering to  CEFR standard
 - unlimited __units__ per level
 - short, focused __lessons__, up to 10 per unit
-- thematic indexes (__coverages__)
+- thematic indexes - called __coverages__
 </div>
 
-Each lesson is accompanied by students' feedback, coming from fixed, named characters (personas) and temporary, anonymous reactions (moods). In this way, **Topicalia is both a course and its commentary**.
+Each lesson is accompanied by students' feedback, coming from fixed, named characters (personas) and temporary, anonymous reactions (moods).
+
+
+>  In this way, **Topicalia is both a course and its commentary** while readers are **watching a small class work through the material**.
 
 <figure markdown="span">
   ![_](assets/screens/lesson-dual.png)
-  <figcaption>lesson dualism</figcaption>
+  <figcaption>the class is watching</figcaption>
 </figure>
 
 ## students
@@ -36,27 +39,20 @@ Personas are recognizable, consistent and have their particular twists, often to
 
 ## coverages
 
-Thanks to semantic markup in the content, Topicalia can generate indexes of what actually appears in lessons:
-
-<div class="grid cards" markdown>
-- grammar areas
-- exercise types
-- lesson breeds
-- custom highlights
-</div>
+Thanks to semantic markup in the content, Topicalia can generate indexes of what actually appears in lessons - grammar areas, exercise types, lesson categories and custom highlights.
 
 <figure markdown="span">
   ![_](assets/screens/coverage-grammar.png)
   <figcaption>coverage of Portuguese grammar</figcaption>
 </figure>
 
-## highlighters
+## highlights
 
 Commonly marked words get their own highlight colour:
 
 <figure markdown="span">
   ![_](assets/screens/highlights.png)
-  <figcaption>highlighters</figcaption>
+  <figcaption>highlights</figcaption>
 </figure>
 
 Idioms, collocations and registers are commonly emphasized features. A **special** category is reserved for language-specific features. In Portuguese, this highlights the **subjunctive**, which also has its own coverage listing.
@@ -72,10 +68,10 @@ Content is currently AI-generated and then curated by hand. Over time, the balan
 
 ## what this is **not**
 
-Topicalia is not meant to become:
+Topicalia is not meant to become a:
 
-- a gamified app (unless achievements stay purely educational)
-- a grammar encyclopedia
+- gamified app (unless achievements stay purely educational)
+- grammar encyclopedia
 - chatbot tutor
 
 ## content development roadmap
