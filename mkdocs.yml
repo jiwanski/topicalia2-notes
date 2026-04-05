@@ -23,9 +23,8 @@ docs_dir: docs
 nav:
   - Home:
       - Home: index.md
-  - Topicalism:
-      - why gonzo: topicalism/gonzo.md
-      - manifesto: topicalism/manifesto.md
+  - Gonzo:
+      - Gonzo: topicalism/gonzo.md
 plugins:
   - search
   - include-markdown

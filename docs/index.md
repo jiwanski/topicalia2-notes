@@ -87,5 +87,4 @@ There is room to grow in two directions.
 
 If you want to understand the spirit behind it, read:
 
-* [manifesto](topicalism/manifesto.md)
 * [why gonzo](topicalism/gonzo.md)
