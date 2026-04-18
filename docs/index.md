@@ -1,7 +1,6 @@
 # about
 
-**Topicalia** is a lightweight web application that takes a slightly different approach to studying foreign languages, currently in a prototype phase, with Portuguese as its working language - partly by design, partly by passion.
-
+**Topicalia** is a lightweight web application that takes a slightly different approach to studying foreign languages, with Brazilian Portuguese as its showcase - partly by design, partly by passion. Below is a glimpse of what has taken shape so far.
 
 ## content
 
@@ -16,7 +15,7 @@ The material follows the rough outline of a course book series, though not too s
 
 Each lesson is accompanied by student reactions, some coming from fixed, named characters (personas), others appearing briefly as anonymous moods.
 
->  In this way, **Topicalia is both a course and its commentary**, while readers are **watching a small class work through the material**, occasionally more closely than the material itself.
+>  In this way, **Topicalia is both a course and its commentary**, while readers are **watching a small class work through the material**, occasionally more closely than the material itself would suggest.
 
 <figure markdown="span">
   ![_](assets/screens/lesson-dual.png)
