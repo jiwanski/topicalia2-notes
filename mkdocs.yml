@@ -18,6 +18,13 @@ theme:
   - content.code.copy
 #  - toc.integrate
   favicon: assets/favicon.svg   # or assets/favicon.ico if you skip SVG
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jiwanski
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jacekiwanski/
+
 extra_css:
   - assets/extra.css
 docs_dir: docs
