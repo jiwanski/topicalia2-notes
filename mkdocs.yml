@@ -22,9 +22,11 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/jiwanski
+      name: GitHub
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jacekiwanski/
-
+      name: LinkedIn
+copyright: Copyright &copy; 2026 Jacek Iwański
 extra_css:
   - assets/extra.css
 docs_dir: docs
