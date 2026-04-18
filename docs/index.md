@@ -90,3 +90,8 @@ There is room to grow in at least two directions, which may or may not converge.
 If you want to understand the underlying logic - or at least the atmosphere around it - read:
 
 * [why gonzo](topicalism/gonzo.md)
+
+For more about the author, visit:
+
+* [LinkedIn](https://www.linkedin.com/in/jacekiwanski/)
+* [GitHub](https://github.com/jiwanski)
