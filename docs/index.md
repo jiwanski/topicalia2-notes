@@ -73,16 +73,29 @@ Content is currently AI-generated and then curated by hand, though not in a way 
 Topicalia is not meant to become:
 
 - a gamified app (unless achievements remain tied to actual learning)
-- a grammar encyclopedia
+- a grammar compendium
 - a chatbot tutor
 
-## content development roadmap
+## roadmap
+
+### content development
 
 There is room to grow in at least two directions, which may or may not converge.
 
 <div class="grid cards" markdown>
 - **top-down**<br/>shaping levels into a clearer CEFR-aligned syllabus
 - **grassroots**<br/>opening the repository to contributions - lessons, voices, even new languages
+</div>
+
+### application
+
+As a single-person project, with tons of educational content to develop, Topicalia application is parked at MVP phase. A few paths remain open, should time allow:
+
+<div class="grid cards" markdown>
+- **FastAPI**<br/>a natural step beyond Flask
+- **database**<br/>possibly MongoDB or a similar lightweight store
+- **testing**<br/>first manual, then web UI automation
+- **hosting**<br/>exploring minimal hosting setups for local preview and public delivery
 </div>
 
 ## where to go next
