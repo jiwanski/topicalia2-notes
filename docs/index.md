@@ -1,7 +1,6 @@
 # about
 
-**Topicalia** is a lightweight web application that takes a slightly different approach to studying foreign languages, currently in a prototype phase, with Portuguese as its working language - partly by design, partly by passion.
-
+**Topicalia** is a lightweight web application that takes a slightly different approach to studying foreign languages, with Brazilian Portuguese as its showcase - partly by design, partly by passion. Below is a glimpse of what has taken shape so far.
 
 ## content
 
@@ -16,7 +15,7 @@ The material follows the rough outline of a course book series, though not too s
 
 Each lesson is accompanied by student reactions, some coming from fixed, named characters (personas), others appearing briefly as anonymous moods.
 
->  In this way, **Topicalia is both a course and its commentary**, while readers are **watching a small class work through the material**, occasionally more closely than the material itself.
+>  In this way, **Topicalia is both a course and its commentary**, while readers are **watching a small class work through the material**, occasionally more closely than the material itself would suggest.
 
 <figure markdown="span">
   ![_](assets/screens/lesson-dual.png)
@@ -73,10 +72,12 @@ Content is currently AI-generated and then curated by hand, though not in a way 
 Topicalia is not meant to become:
 
 - a gamified app (unless achievements remain tied to actual learning)
-- a grammar encyclopedia
+- a grammar compendium
 - a chatbot tutor
 
-## content development roadmap
+## roadmap
+
+### content development
 
 There is room to grow in at least two directions, which may or may not converge.
 
@@ -85,8 +86,24 @@ There is room to grow in at least two directions, which may or may not converge.
 - **grassroots**<br/>opening the repository to contributions - lessons, voices, even new languages
 </div>
 
+### application
+
+As a single-person project, with tons of educational content to develop, Topicalia application is parked at MVP phase. A few paths remain open, should time allow:
+
+<div class="grid cards" markdown>
+- **FastAPI**<br/>a natural step beyond Flask
+- **database**<br/>possibly MongoDB or a similar lightweight store
+- **testing**<br/>first manual, then web UI automation
+- **hosting**<br/>exploring minimal hosting setups for local preview and public delivery
+</div>
+
 ## where to go next
 
 If you want to understand the underlying logic - or at least the atmosphere around it - read:
 
 * [why gonzo](topicalism/gonzo.md)
+
+For more about the author, visit:
+
+* [LinkedIn](https://www.linkedin.com/in/jacekiwanski/)
+* [GitHub](https://github.com/jiwanski)
