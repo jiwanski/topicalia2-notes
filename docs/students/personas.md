@@ -2,11 +2,11 @@
 
 In Topicalia, voices are not there as decoration.
 
-Each lesson is observed from a few angles, and those angles are not random but carried by a small, stable group of personas whose habits persist across levels, even as what they notice begins, gradually and sometimes unevenly, to change.
+Each lesson is observed from a few angles and those angles are not random but carried by a small, stable group of personas whose habits persist across levels, even as what they notice begins, gradually and sometimes unevenly, to change.
 
 What evolves is not the character but the sensitivity.
 
-A1 does not allow for the same obsessions as B2, and so each persona shifts its attention accordingly - from surface patterns to structure, from structure to nuance, and eventually toward something harder to name but easier to recognize once it appears.
+A1 does not allow for the same obsessions as B2 and so each persona shifts its attention accordingly - from surface patterns to structure, from structure to nuance and eventually toward something harder to name but easier to recognize once it appears.
 
 ## overview
 
@@ -77,7 +77,7 @@ Two or three are usually enough to create contrast, while anything beyond that t
 
 Over time, personas begin to shape how the lesson is read, sometimes more than the lesson itself, though not always in ways that can be easily traced back.
 
-Moods may appear alongside personas, but they do not accumulate; they register a reaction, briefly and without consequence, and then disappear.
+Moods may appear alongside personas but they do not accumulate; they register a reaction, briefly and without consequence and then disappear.
 
 ## personas
 
@@ -125,15 +125,15 @@ At lower levels, this reduces to fixed phrases and safe combinations - things th
       <li>Nesse tipo de projeto, <mark class="idiom" data-canonical="é melhor sobrar do que faltar">é melhor sobrar do que faltar</mark>.</li>
     </ul>
 
-### Martha - the Oracle of Doubt
+### Martha, the Oracle of Doubt
 
 <figure markdown="span">
   ![_](../assets/avatars/martha.svg)
 </figure>
 
-Martha begins with clarity, which at A1 and A2 means shaping sentences so that they hold together — adding connectors, avoiding abrupt edges, keeping the structure legible — before that attention shifts, more gradually than it first appears, toward the subjunctive, where certainty weakens and alternatives begin to emerge.
+Martha begins with clarity, which at A1 and A2 means shaping sentences so that they hold together - adding connectors, avoiding abrupt edges, keeping the structure legible - before that attention shifts, more gradually than it first appears, toward the subjunctive, where certainty weakens and alternatives begin to emerge.
 
-Beyond that, she starts operating in shades - probability, distance, careful positioning — where not everything has to be said directly and not everything should be.
+Beyond that, she starts operating in shades - probability, distance, careful positioning - where not everything has to be said directly and not everything should be.
 
 === "A1"
 
@@ -164,7 +164,7 @@ Beyond that, she starts operating in shades - probability, distance, careful pos
     - Não diria que seja errado, mas soa estranho.
 
 
-### Piotr The Clausalist
+### Piotr The Clauselist
 
 <figure markdown="span">
   ![_](../assets/avatars/piotr.svg)
@@ -174,7 +174,7 @@ Piotr rarely says anything in proportion.
 
 At the beginning, this shows up as intensifiers and overstatement - everything is too much, too often, too certain. With time, that excess finds structure: comparisons first, then relative clauses, then longer constructions that attempt to capture every possible angle at once.
 
-He does not simplify, and if anything, he adds — sometimes to the point where the structure begins to reveal itself precisely because it is being pushed beyond what would normally be required. Occasionally, that makes things clearer.
+He does not simplify and if anything, he adds - sometimes to the point where the structure begins to reveal itself precisely because it is being pushed beyond what would normally be required. Occasionally, that makes things clearer.
 
 === "A1"
 
@@ -203,7 +203,7 @@ He does not simplify, and if anything, he adds — sometimes to the point where 
     - O problema que surgiu ontem, que ninguém previu, ainda não foi resolvido.
     - A forma como ele explicou, que parecia clara no início, ficou confusa depois.
 
-### Rafa - Ifs and Otherwise
+### Rafa, Ifs, Buts and Otherwise
 
 <figure markdown="span">
   ![_](../assets/avatars/rafa.svg)
@@ -213,7 +213,7 @@ Rafa treats language as something slightly unstable.
 
 At lower levels, this comes out as jokes, informal phrasing and small deviations that stay within safe limits. Later, those deviations become more deliberate: softening statements, introducing doubt, shifting tone without fully committing.
 
-By B1 this opens into conditionals — small hypothetical detours that suggest alternatives without insisting on them, where not everything has to happen, and it is often enough that it could.
+By B1 this opens into conditionals - small hypothetical detours that suggest alternatives without insisting on them, where not everything has to happen and it is often enough that it could.
 
 === "A1"
 
@@ -243,7 +243,7 @@ By B1 this opens into conditionals — small hypothetical detours that suggest a
     - Não sei se eu concordaria totalmente, mas entendo o ponto.
     - Se isso tivesse sido dito antes, talvez mudasse tudo.
 
-### Cuca - Keeper of the Past
+### Cuca of the Past
 
 <figure markdown="span">
   ![_](../assets/avatars/cuca.svg)
@@ -251,7 +251,7 @@ By B1 this opens into conditionals — small hypothetical detours that suggest a
 
 At first, this is simple: what happened, what is finished, what can be stated without ambiguity. Then distinctions begin to appear - ongoing vs completed, background vs event, sequence vs interruption.
 
-By B1 these distinctions start to interact and a story is no longer just a list of events but a structure capable of shifting perspective, revisiting moments, or subtly reordering itself without breaking. At higher levels, time itself becomes less stable and that instability, once noticed, can be used rather than corrected.
+By B1 these distinctions start to interact and a story is no longer just a list of events but a structure capable of shifting perspective, revisiting moments or subtly reordering itself without breaking. At higher levels, time itself becomes less stable and that instability, once noticed, can be used rather than corrected.
 
 === "A1"
 
