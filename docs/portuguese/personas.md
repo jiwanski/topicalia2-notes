@@ -147,3 +147,168 @@ At first, this is simple: what happened, what is finished, what can be stated wi
 By B1 these distinctions begin to interact, and a story is no longer just a list of events but a structure capable of shifting perspective, revisiting moments, or subtly reordering itself without breaking.
 
 At higher levels, time itself becomes less stable, and that instability, once noticed, can be used rather than corrected.
+
+## evolution across levels
+
+### Idiomatic
+
+!!! Inês
+
+    === "A1"
+
+        - Eu tenho fome.
+        - Vamos tomar um café?
+        - Tudo bem?
+        - Estou com sono.
+        - Que horas são?
+
+    === "A2"
+
+        - Tenho vontade de viajar.
+        - Preciso de ajuda com isso.
+        - Ele gosta de música brasileira.
+        - Estou com pressa agora.
+        - A gente pode sair mais tarde.
+
+    === "B1"
+
+        - Isso não faz sentido nenhum.
+        - Estou cheio de trabalho hoje.
+        - Ele ficou de boca aberta.
+        - Não vale a pena discutir.
+        - Estou meio sem graça com isso.
+
+    === "B2+"
+
+        - Isso soa um pouco estranho nesse contexto.
+        - Ele meio que desviou do assunto.
+        - Não é bem assim que funciona.
+        - Ficou subentendido, mas ninguém disse claramente.
+        - Depende muito de como você coloca isso.
+
+### Subjunctive Oracle
+
+!!! Martha
+
+    === "A1"
+
+        - Eu estudo português e trabalho.
+        - Eu gosto de café porque é forte.
+        - Ele mora aqui e trabalha perto.
+        - Eu quero aprender mais.
+
+    === "A2"
+
+        - Eu estudo porque quero melhorar.
+        - Quando tenho tempo, leio um pouco.
+        - Se chove, eu fico em casa.
+        - Eu acho que ele está certo.
+
+    === "B1"
+
+        - Espero que ele venha amanhã.
+        - É importante que você estude mais.
+        - Talvez a gente consiga resolver isso.
+        - Não acho que isso seja correto.
+
+    === "B2+"
+
+        - É possível que ele tenha interpretado mal a situação.
+        - Caso você precise de ajuda, é só avisar.
+        - Ainda que pareça simples, exige atenção.
+        - Não diria que seja errado, mas soa estranho.
+
+### The Clausalist
+
+!!! Piotr
+
+    === "A1"
+
+        - Isso é muito bom!
+        - Eu estou muito cansado!
+        - Ele é muito alto!
+        - Isso é grande demais!
+
+    === "A2"
+
+        - Isso é mais difícil do que parece.
+        - Ele é mais rápido que eu.
+        - Hoje está melhor que ontem.
+        - Isso é menos complicado do que pensei.
+
+    === "B1"
+
+        - O livro que eu li é muito interessante.
+        - A pessoa que falou isso estava errada.
+        - O lugar onde fomos era incrível.
+        - Isso é algo que ninguém esperava.
+
+    === "B2+"
+
+        - A ideia que ele apresentou, que parecia simples, acabou sendo complicada.
+        - O problema que surgiu ontem, que ninguém previu, ainda não foi resolvido.
+        - A forma como ele explicou, que parecia clara no início, ficou confusa depois.
+
+### If...
+
+!!! Rafa
+
+    === "A1"
+
+        - Isso é engraçado!
+        - Vamos lá!
+        - Eu não sei...
+        - Acho que sim!
+
+    === "A2"
+
+        - Talvez a gente possa tentar isso.
+        - Não sei se vale a pena.
+        - Acho melhor ver depois.
+        - Pode ser uma boa ideia.
+
+    === "B1"
+
+        - Se eu tivesse tempo, faria isso.
+        - Eu diria que isso funciona melhor assim.
+        - Se a gente tentasse de outro jeito?
+        - Eu faria diferente, mas tudo bem.
+
+    === "B2+"
+
+        - Se fosse comigo, eu teria feito outra escolha.
+        - Poderíamos considerar outra abordagem, se fizer sentido.
+        - Não sei se eu concordaria totalmente, mas entendo o ponto.
+        - Se isso tivesse sido dito antes, talvez mudasse tudo.
+
+### The Past
+
+!!! Cuca
+
+    === "A1"
+
+        - Ontem eu trabalhei muito.
+        - Eu estudei português.
+        - Ele chegou tarde.
+        - Nós fomos ao mercado.
+
+    === "A2"
+
+        - Quando eu morava lá, estudava todos os dias.
+        - Eu estava lendo quando ele chegou.
+        - Antes, eu trabalhava muito mais.
+        - A gente estava conversando quando aconteceu.
+
+    === "B1"
+
+        - Eu já tinha saído quando ele chegou.
+        - Quando percebi, já era tarde demais.
+        - Eu estava tentando entender o que tinha acontecido.
+        - Depois que ele falou, tudo mudou.
+
+    === "B2+"
+
+        - Eu vinha pensando nisso há algum tempo quando finalmente decidi agir.
+        - Assim que ele terminou de falar, percebi que já tinha entendido tudo antes.
+        - O que parecia claro no início acabou se complicando depois.
+        - Eu tinha a impressão de que algo não estava certo desde o começo.
