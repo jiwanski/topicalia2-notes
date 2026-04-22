@@ -4,7 +4,7 @@ main.md-main {
 
 .tabbed-set {
   padding: 1rem;
-  border: 1px dashed #797979;
+  /*border: 1px dashed #797979;*/
   border-radius: 0.5rem !important;
 }
 

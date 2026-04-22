@@ -16,7 +16,7 @@ theme:
   - navigation.expand
   - navigation.prune
   - content.code.copy
-  - content.tabs.link
+#  - content.tabs.link
 #  - toc.integrate
   favicon: assets/favicon.svg   # or assets/favicon.ico if you skip SVG
 extra:
