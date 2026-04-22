@@ -36,8 +36,8 @@ nav:
       - home: index.md
   - gonzo:
       - why gonzo?: topicalism/gonzo.md
-  - Portuguese:
-      - personas: portuguese/personas.md
+  - students:
+      - personas: students/personas.md
 plugins:
   - search
   - include-markdown
