@@ -93,19 +93,19 @@ At lower levels, this reduces to fixed phrases and safe combinations - things th
 
 === "A1"
 
-    - Eu tenho fome.
-    - Vamos tomar um café?
-    - Tudo bem?
-    - Estou com sono.
-    - Que horas são?
+    - Já já.
+    - Pois é.
+    - Então tá.
+    - Sei lá.
+    - Tá bom então.
 
 === "A2"
 
-    - Tenho vontade de viajar.
-    - Preciso de ajuda com isso.
-    - Ele gosta de música brasileira.
-    - Estou com pressa agora.
-    - A gente pode sair mais tarde.
+    - Aí já complica.
+    - No fim das contas, tanto faz.
+    - Vai saber.
+    - Meio estranho isso.
+    - Fica difícil assim.
 
 === "B1"
 
@@ -178,17 +178,17 @@ He does not simplify and if anything, he adds - sometimes to the point where the
 
 === "A1"
 
-    - Isso é muito bom!
-    - Eu estou muito cansado!
-    - Ele é muito alto!
-    - Isso é grande demais!
+    - Isso é bom, mas eu não gosto muito.
+    - Eu estou cansado, porque trabalhei muito.
+    - Ele é alto, e fala muito também.
+    - Eu quero ir, mas não tenho tempo.
 
 === "A2"
 
-    - Isso é mais difícil do que parece.
-    - Ele é mais rápido que eu.
-    - Hoje está melhor que ontem.
-    - Isso é menos complicado do que pensei.
+    - O filme que eu vi ontem foi estranho, mas interessante.
+    - A pessoa que falou isso não explicou direito.
+    - Eu fui ao lugar onde você trabalha, mas estava fechado.
+    - Isso é algo que eu não entendi, porque ninguém explicou.
 
 === "B1"
 
@@ -203,7 +203,7 @@ He does not simplify and if anything, he adds - sometimes to the point where the
     - O problema que surgiu ontem, que ninguém previu, ainda não foi resolvido.
     - A forma como ele explicou, que parecia clara no início, ficou confusa depois.
 
-### Rafa, Ifs, Buts and Otherwise
+### Rafa, Ifs and Otherwise
 
 <figure markdown="span">
   ![_](../assets/avatars/rafa.svg)
@@ -217,17 +217,17 @@ By B1 this opens into conditionals - small hypothetical detours that suggest alt
 
 === "A1"
 
-    - Isso é engraçado!
-    - Vamos lá!
-    - Eu não sei...
-    - Acho que sim!
+    - E se a gente vai depois?
+    - Não sei, pode dar certo.
+    - Talvez <mark class="doubt" title="technically incorrect">funciona</mark>.
+    - E se dá errado?
 
 === "A2"
 
-    - Talvez a gente possa tentar isso.
-    - Não sei se vale a pena.
-    - Acho melhor ver depois.
-    - Pode ser uma boa ideia.
+    - E se a gente tenta de outro jeito?
+    - Talvez dá certo assim.
+    - Não sei se isso funciona, mas pode funcionar.
+    - E se a gente faz isso amanhã?
 
 === "B1"
 
@@ -249,7 +249,7 @@ By B1 this opens into conditionals - small hypothetical detours that suggest alt
   ![_](../assets/avatars/cuca.svg)
 </figure>
 
-At first, this is simple: what happened, what is finished, what can be stated without ambiguity. Then distinctions begin to appear - ongoing vs completed, background vs event, sequence vs interruption.
+Cuca tracks the past. At first, this is simple: what happened, what is finished, what can be stated without ambiguity. Then distinctions begin to appear - ongoing vs completed, background vs event, sequence vs interruption.
 
 By B1 these distinctions start to interact and a story is no longer just a list of events but a structure capable of shifting perspective, revisiting moments or subtly reordering itself without breaking. At higher levels, time itself becomes less stable and that instability, once noticed, can be used rather than corrected.
 
@@ -262,21 +262,21 @@ By B1 these distinctions start to interact and a story is no longer just a list 
 
 === "A2"
 
-    - Quando eu morava lá, estudava todos os dias.
-    - Eu estava lendo quando ele chegou.
-    - Antes, eu trabalhava muito mais.
-    - A gente estava conversando quando aconteceu.
+    - Quando eu <mark class="verb" data-canonical="">morava</mark> lá, <mark class="verb" data-canonical="">estudava</mark> todos os dias.
+    - Eu <mark class="verb" data-canonical="">estava lendo</mark> quando ele <mark class="verb" data-canonical="">chegou</mark>.
+    - Antes, eu <mark class="verb" data-canonical="">trabalhava</mark> muito mais.
+    - A gente <mark class="verb" data-canonical="">estava conversando</mark> quando <mark class="verb" data-canonical="">aconteceu</mark>.
 
 === "B1"
 
-    - Eu já tinha saído quando ele chegou.
-    - Quando percebi, já era tarde demais.
-    - Eu estava tentando entender o que tinha acontecido.
-    - Depois que ele falou, tudo mudou.
+    - Eu já <mark class="verb" data-canonical="">tinha saído</mark> quando ele <mark class="verb" data-canonical="">chegou</mark>.
+    - Quando <mark class="verb" data-canonical="">percebi</mark>, já <mark class="verb" data-canonical="">era</mark> tarde demais.
+    - Eu <mark class="verb" data-canonical="">estava tentando</mark> entender o que <mark class="verb" data-canonical="">tinha acontecid</mark>o.
+    - Depois que ele <mark class="verb" data-canonical="">falou</mark>, tudo <mark class="verb" data-canonical="">mudou</mark>.
 
 === "B2+"
 
-    - Eu vinha pensando nisso há algum tempo quando finalmente decidi agir.
-    - Assim que ele terminou de falar, percebi que já tinha entendido tudo antes.
-    - O que parecia claro no início acabou se complicando depois.
-    - Eu tinha a impressão de que algo não estava certo desde o começo.
+    - Eu <mark class="verb" data-canonical="">vinha</mark> pensando nisso há algum tempo quando finalmente <mark class="verb" data-canonical="">decidi</mark> agir.
+    - Assim que ele <mark class="verb" data-canonical="">terminou</mark> de falar, <mark class="verb" data-canonical="">percebi</mark> que já <mark class="verb" data-canonical="">tinha entendido</mark> tudo antes.
+    - O que <mark class="verb" data-canonical="">parecia</mark> claro no início <mark class="verb" data-canonical="">acabou</mark> se complicando depois.
+    - Eu <mark class="verb" data-canonical="">tinha</mark> a impressão de que algo não <mark class="verb" data-canonical="">estava</mark> certo desde o começo.
