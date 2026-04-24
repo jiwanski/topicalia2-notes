@@ -11,3 +11,14 @@ main.md-main {
 .md-typeset .grid.cards > ul > li {
   background-color: var(--card-bg);
 }
+
+.md-typeset img,
+.md-typeset svg,
+.md-typeset video figure.span img {
+  width: 128px !important;
+  height: 128px;
+}
+
+.md-typeset figure.mood {
+  margin-left: 0;
+}

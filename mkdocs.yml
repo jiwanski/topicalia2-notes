@@ -38,6 +38,7 @@ nav:
       - why gonzo?: topicalism/gonzo.md
   - students:
       - personas: students/personas.md
+      - moods: students/moods.md
 plugins:
   - search
   - include-markdown
