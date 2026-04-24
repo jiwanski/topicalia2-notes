@@ -21,4 +21,12 @@ main.md-main {
 
 .md-typeset figure.mood {
   margin-left: 0;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  text-align: left;
+}
+
+.md-typeset figure.mood blockquote {
+  border-left: 1px dashed silver;
 }

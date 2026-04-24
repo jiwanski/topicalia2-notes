@@ -13,9 +13,8 @@ Because of that, moods remain simple in form, but their effect changes with leve
     src="../../assets/avatars/analytical.svg"
     alt="impressed" />
   <figcaption>analytical</figcaption>
+  <blockquote>Detached, slightly over-focused, sometimes noticing structure where none was intended.</blockquote>
 </figure>
-
-Detached, slightly over-focused, sometimes noticing structure where none was intended.
 
 === "A1"
 
@@ -46,9 +45,8 @@ Detached, slightly over-focused, sometimes noticing structure where none was int
     src="../../assets/avatars/disgusted.svg"
     alt="impressed" />
   <figcaption>disgusted</figcaption>
+  <blockquote>Immediate rejection, often disproportionate to the actual problem.</blockquote>
 </figure>
-
-Immediate rejection, often disproportionate to the actual problem.
 
 === "A1"
 
@@ -79,9 +77,8 @@ Immediate rejection, often disproportionate to the actual problem.
     src="../../assets/avatars/bored.svg"
     alt="impressed" />
   <figcaption>bored</figcaption>
+  <blockquote>Lack of engagement, not hostile, just fading attention.</blockquote>
 </figure>
-
-Lack of engagement, not hostile, just fading attention.
 
 === "A1"
 
@@ -112,9 +109,8 @@ Lack of engagement, not hostile, just fading attention.
     src="../../assets/avatars/amused.svg"
     alt="impressed" />
   <figcaption>amused</figcaption>
+  <blockquote>Light reaction, noticing something slightly off or unexpectedly fitting.</blockquote>
 </figure>
-
-Light reaction, noticing something slightly off or unexpectedly fitting.
 
 === "A1"
 
@@ -145,9 +141,8 @@ Light reaction, noticing something slightly off or unexpectedly fitting.
     src="../../assets/avatars/irritated.svg"
     alt="impressed" />
   <figcaption>irritated</figcaption>
+  <blockquote>Friction, resistance, small but persistent.</blockquote>
 </figure>
-
-Friction, resistance, small but persistent.
 
 === "A1"
 
@@ -178,9 +173,8 @@ Friction, resistance, small but persistent.
     src="../../assets/avatars/sad.svg"
     alt="impressed" />
   <figcaption>sad</figcaption>
+  <blockquote>Low energy, quiet disappointment, not dramatic.</blockquote>
 </figure>
-
-Low energy, quiet disappointment, not dramatic.
 
 === "A1"
 
@@ -211,9 +205,8 @@ Low energy, quiet disappointment, not dramatic.
     src="../../assets/avatars/twisted.svg"
     alt="impressed" />
   <figcaption>twisted</figcaption>
+  <blockquote>Slight distortion, playful but not entirely comfortable.</blockquote>
 </figure>
-
-Slight distortion, playful but not entirely comfortable.
 
 === "A1"
 
@@ -244,9 +237,8 @@ Slight distortion, playful but not entirely comfortable.
     src="../../assets/avatars/confused.svg"
     alt="impressed" />
   <figcaption>confused</figcaption>
+  <blockquote>Lack of clarity, searching for orientation.</blockquote>
 </figure>
-
-Lack of clarity, searching for orientation.
 
 === "A1"
 
@@ -277,9 +269,8 @@ Lack of clarity, searching for orientation.
     src="../../assets/avatars/impressed.svg"
     alt="impressed" />
   <figcaption>impressed</figcaption>
+  <blockquote>Recognition of quality, sometimes reluctant.</blockquote>
 </figure>
-
-Recognition of quality, sometimes reluctant.
 
 === "A1"
 
