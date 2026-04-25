@@ -30,3 +30,11 @@ main.md-main {
 .md-typeset figure.mood blockquote {
   border-left: 1px dashed silver;
 }
+
+.tabbed-labels.tabbed-labels--linked a {
+  background-color: #dfdfdf;
+  margin: 0 0.1rem;
+  border-radius: 0.5rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}

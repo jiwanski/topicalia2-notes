@@ -8,12 +8,13 @@ They do not explain the lesson. They lean on it, sometimes lightly, sometimes wi
 
 Because of that, moods remain simple in form, but their effect changes with level: at A1 they stay close to basic statements, while at higher levels they begin to stretch tone, implication, or structure without fully committing to either.
 
+## analytical
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/analytical.svg"
     alt="impressed" />
-  <figcaption>analytical</figcaption>
-  <blockquote>Detached, slightly over-focused, sometimes noticing structure where none was intended.</blockquote>
+  <figcaption>Detached, slightly over-focused, sometimes noticing structure where none was intended.</figcaption>
 </figure>
 
 === "A1"
@@ -40,12 +41,13 @@ Because of that, moods remain simple in form, but their effect changes with leve
     - Isso sugere um padrão que não é totalmente estável.
     - Funciona, mas não exatamente da mesma forma em todos os casos.
 
+## disgusted
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/disgusted.svg"
     alt="impressed" />
-  <figcaption>disgusted</figcaption>
-  <blockquote>Immediate rejection, often disproportionate to the actual problem.</blockquote>
+  <figcaption>Immediate rejection, often disproportionate to the actual problem.</figcaption>
 </figure>
 
 === "A1"
@@ -72,12 +74,13 @@ Because of that, moods remain simple in form, but their effect changes with leve
     - Isso causa uma reação imediata, difícil de justificar.
     - Não sei explicar bem, mas isso me incomoda profundamente.
 
+## bored
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/bored.svg"
     alt="impressed" />
-  <figcaption>bored</figcaption>
-  <blockquote>Lack of engagement, not hostile, just fading attention.</blockquote>
+  <figcaption>Lack of engagement, not hostile, just fading attention.</figcaption>
 </figure>
 
 === "A1"
@@ -104,12 +107,13 @@ Because of that, moods remain simple in form, but their effect changes with leve
     - Dá a impressão de que nada realmente evolui.
     - Isso se resolve sem exigir atenção.
 
+## amused
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/amused.svg"
     alt="impressed" />
-  <figcaption>amused</figcaption>
-  <blockquote>Light reaction, noticing something slightly off or unexpectedly fitting.</blockquote>
+  <figcaption>Light reaction, noticing something slightly off or unexpectedly fitting.</figcaption>
 </figure>
 
 === "A1"
@@ -136,12 +140,13 @@ Because of that, moods remain simple in form, but their effect changes with leve
     - Isso tem um efeito curioso, quase involuntário.
     - Funciona de um modo que surpreende sem exagerar.
 
+## irritated
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/irritated.svg"
     alt="impressed" />
-  <figcaption>irritated</figcaption>
-  <blockquote>Friction, resistance, small but persistent.</blockquote>
+  <figcaption>Friction, resistance, small but persistent.</figcaption>
 </figure>
 
 === "A1"
@@ -168,12 +173,13 @@ Because of that, moods remain simple in form, but their effect changes with leve
     - Isso introduz mais problemas do que resolve.
     - Parece mais difícil do que realmente deveria ser.
 
+## sad
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/sad.svg"
     alt="impressed" />
-  <figcaption>sad</figcaption>
-  <blockquote>Low energy, quiet disappointment, not dramatic.</blockquote>
+  <figcaption>Low energy, quiet disappointment, not dramatic.</figcaption>
 </figure>
 
 === "A1"
@@ -200,12 +206,13 @@ Because of that, moods remain simple in form, but their effect changes with leve
     - Isso não atinge o que parecia prometer.
     - Fica aquém do que poderia ser.
 
+## twisted
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/twisted.svg"
     alt="impressed" />
-  <figcaption>twisted</figcaption>
-  <blockquote>Slight distortion, playful but not entirely comfortable.</blockquote>
+  <figcaption>Slight distortion, playful but not entirely comfortable.</figcaption>
 </figure>
 
 === "A1"
@@ -232,12 +239,13 @@ Because of that, moods remain simple in form, but their effect changes with leve
     - Isso funciona, mas de forma desconfortável.
     - Parece correto, mas algo não encaixa completamente.
 
+## confused
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/confused.svg"
     alt="impressed" />
-  <figcaption>confused</figcaption>
-  <blockquote>Lack of clarity, searching for orientation.</blockquote>
+  <figcaption>Lack of clarity, searching for orientation.</figcaption>
 </figure>
 
 === "A1"
@@ -264,12 +272,13 @@ Because of that, moods remain simple in form, but their effect changes with leve
     - Não consigo ver como isso se encaixa no resto.
     - Isso levanta mais dúvidas do que resolve.
 
+## impressed
+
 <figure markdown="span" class="mood">
   <img
     src="../../assets/avatars/impressed.svg"
     alt="impressed" />
-  <figcaption>impressed</figcaption>
-  <blockquote>Recognition of quality, sometimes reluctant.</blockquote>
+  <figcaption>Recognition of quality, sometimes reluctant.</figcaption>
 </figure>
 
 === "A1"
