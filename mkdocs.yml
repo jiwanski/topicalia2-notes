@@ -34,11 +34,10 @@ docs_dir: docs
 nav:
   - home:
       - home: index.md
+  - student edition: editions/student.md
+  - teacher's book: editions/teacher.md
   - gonzo:
       - why gonzo?: topicalism/gonzo.md
-  - students:
-      - personas: students/personas.md
-      - moods: students/moods.md
 plugins:
   - search
   - include-markdown
