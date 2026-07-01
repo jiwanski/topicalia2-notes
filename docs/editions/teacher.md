@@ -1,8 +1,6 @@
 # Teacher's book
 
-The teacher edition mirrors the student edition, but it does a different job.
-
-It is not only an answer key. It explains what the lesson is trying to make discussable, what language is worth noticing, and how the recurring voices can be used in class without turning them into decorative livestock.
+The teacher edition mirrors the student edition, but it does a different job - it explains what the lesson is trying to make discussable, what language is worth noticing, and how the recurring voices can be used in class without turning them into decorative wallflowers.
 
 <figure markdown="span">
   ![Teacher notes page from Japan 1](assets/screens/japan1-teacher-notes.png)
@@ -65,9 +63,7 @@ For example, in the Japan 1 demo:
 
 Mood notes are shorter. They help teachers decide how a reaction might open a different kind of discussion.
 
-A bored reaction can be useful because it punctures excessive seriousness. A sad reaction can slow the class down. A twisted reaction can test the limits of the idea without asking everyone to agree with it.
-
-The teacher edition avoids repeating the mood label at the beginning of every paragraph. The summary already names the mood. The note should explain the pedagogical use, not salute the label each time it enters the room.
+A **bored** reaction can be useful because it punctures excessive seriousness. Someone **sad** can slow the class down. A twisted reaction can test the limits of the idea without asking everyone to agree with it.
 
 ## what the teacher edition is not
 
