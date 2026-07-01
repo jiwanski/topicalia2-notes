@@ -34,18 +34,11 @@ It produces short PDF booklets, built around topical lessons and recurring voice
 
 ## current showcase
 
-The current demo edition is:
+The demo edition is for English (UK) on B2 level and features five lessons built around Japanese words: <em>tsundoku</em>, <em>wabi-sabi</em>, <em>ikigai</em>, <em>omotenashi</em> and <em>kintsugi</em>.
 
-<div class="grid cards" markdown>
+[download _Japan 1_ student edition (PDF)](https://github.com/jiwanski/topicalia2-notes/releases/download/japan-1-demo/topicalia-japan1-student.pdf){ .md-button }
 
--   :material-ideogram-cjk:{ .lg .middle } __Japan 1__
-
-    ---
-
-    English (UK), B2 level. Five lessons built around Japanese words:
-    <em>tsundoku</em>, <em>wabi-sabi</em>, <em>ikigai</em>, <em>omotenashi</em> and <em>kintsugi</em>.
-
-</div>
+[download _Japan 1_ teacher edition (PDF)](https://github.com/jiwanski/topicalia2-notes/releases/download/japan-1-demo/topicalia-japan1-teacher.pdf){ .md-button }
 
 ## how a lesson behaves
 
@@ -61,7 +54,7 @@ lesson
   -> teacher comments about selected class reactions
 ```
 
-The main text introduces the topic. The voices then test it, doubt it, rewrite it, overanalyse it or occasionally ignore it.
+The main text introduces the topic. The voices (personas and moods) then test it, doubt it, rewrite it, overanalyse it or occasionally ignore it.
 
 ## the editorial cast
 
