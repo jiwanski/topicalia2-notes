@@ -1,6 +1,6 @@
 # Teacher's book
 
-The teacher edition mirrors the student edition, but it does a different job - it explains what the lesson is trying to make discussable, what language is worth noticing, and how the recurring voices can be used in class without turning them into decorative wallflowers.
+The teacher edition mirrors the student book, but watches the lesson from behind the curtain. It explains why particular language matters, where discussion may wander, and how the recurring voices can keep the conversation moving without taking it over.
 
 <figure markdown="span">
   ![Teacher notes page from Japan 1](assets/screens/japan1-teacher-notes.png)
@@ -11,7 +11,7 @@ The teacher edition mirrors the student edition, but it does a different job - i
 
 Each teacher lesson starts with answers or suggested answers. After that come short notes on the pedagogical aim, language focus, discussion guidance and possible difficulties.
 
-The notes are intentionally compact. They are meant to help a teacher enter the lesson quickly, not to provide a conference paper wearing sensible shoes.
+The notes stay short on purpose. They are there to help a teacher enter the lesson quickly, not to arrive carrying a conference paper in sensible shoes.
 
 <div class="grid cards" markdown>
 
@@ -45,7 +45,7 @@ The notes are intentionally compact. They are meant to help a teacher enter the 
 
 The teacher edition also comments on the personas used in each lesson.
 
-This matters because the student edition does not simply add reactions for colour. The reactions provide alternative readings. A teacher can use them to ask better questions.
+This matters because the student edition does not simply add reactions for colour. Each persona notices a different fault line in the same lesson. One hears phrasework. Another reconstructs memory. A third quietly starts editing the author's choices. The point is not variety for its own sake, but several intelligent ways of reading the same page.
 
 For example, in the Japan 1 demo:
 
@@ -59,14 +59,20 @@ For example, in the Japan 1 demo:
   <figcaption>The voices are not decoration. They are discussion engines with names.</figcaption>
 </figure>
 
+Over time the teacher also learns the cast. Predicting who will object to the next lesson becomes part of the lesson itself.
+
 ## teaching with moods
 
-Mood notes are shorter. They help teachers decide how a reaction might open a different kind of discussion.
+Mood notes are even shorter.
 
-A **bored** reaction can be useful because it punctures excessive seriousness. Someone **sad** can slow the class down. A twisted reaction can test the limits of the idea without asking everyone to agree with it.
+Sometimes the quickest way into a discussion is a quiet sigh rather than a detailed argument. **Bored** punctures excessive seriousness. **Sad** notices what everyone else stepped around. **Twisted** walks over, opens the basement door and asks why it had a lock in the first place.
 
-## what the teacher edition is not
+Teachers do not have to agree with these voices. They only need to decide whether the room becomes more interesting after letting one of them speak.
 
-It is not a script.
+## leaving room for the teacher
 
-Topicalia does not tell the teacher exactly what to say. It provides enough structure to make the lesson teachable and enough strangeness to keep the room awake.
+Every lesson deliberately leaves a few gaps.
+
+The answer key is rarely the destination. More often it is the first stepping stone. Teachers remain free to ignore a persona, follow a mood into an unexpected discussion or stay with a question that refuses to finish on schedule.
+
+The pages provide structure, not choreography.
