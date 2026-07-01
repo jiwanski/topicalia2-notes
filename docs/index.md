@@ -4,7 +4,7 @@
 
 It produces short PDF booklets, built around topical lessons and recurring voices. A lesson begins with a word, a scene or a small cultural idea, which then starts to stir the classroom into creative trouble.
 
-> Topicalia is both a course and its commentary. And all that follows traditional student and teacher materials. With a twist.
+> Topicalia is both a course and its commentary, presented as companion student and teacher editions — with a twist.
 
 <div class="grid cards" markdown>
 
@@ -83,7 +83,7 @@ Personas are recurring language critics. Each one notices something different, f
 
 </div>
 
-Other voices join the board too: Martha qualifies certainty, Claire retells stories, Samir follows the paths opened by <em>if</em>, and Ethan rewrites until a sentence becomes imprinted in memory.
+Other voices join the board too: Martha qualifies certainty, Claire retells stories, Samir follows the paths opened by <em>if</em>, and Ethan rewrites until a sentence simply stays with you.
 
 Moods are different. They are brief emotional readings of the same lesson: amused, analytical, bored, confused, impressed, irritated, sad and twisted. They arrive, leave a mark and disappear before anyone asks them to chair a committee.
 
@@ -102,7 +102,7 @@ The rule is deliberately freeform. The appendix should collect useful language, 
 
 ## what comes next
 
-The next planned direction is **Brasil 1**, a Portuguese edition, which will brings Brazilian words, rhythms and language beauty. _Martha_, who has been waiting politely near the subjunctive, may finally get busy with her beloved grammar structures.
+The next planned direction is **Brasil 1**, a Portuguese edition, which will bring Brazilian words, rhythms and language beauty. _Martha_, who has been waiting politely near the subjunctive, may finally get busy with her beloved grammar structures.
 
 Another possible English edition would zoom in **Japan 1** rather than move on: one whole unit around a single <em>gaman</em> word, viewed through patience, endurance, pressure, silence and the moments when perseverance stops being noble.
 
