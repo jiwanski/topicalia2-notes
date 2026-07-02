@@ -1,13 +1,54 @@
 main.md-main {
-  --card-bg: #dfdfdf;
+  --card-bg: rgb(245, 245, 245);
 }
 
 .tabbed-set {
   padding: 1rem;
-  border: 1px dashed #797979;
+  /*border: 1px dashed #797979;*/
   border-radius: 0.5rem !important;
 }
 
 .md-typeset .grid.cards > ul > li {
   background-color: var(--card-bg);
+}
+
+.md-typeset img,
+.md-typeset svg,
+.md-typeset video figure.span img {
+  /* width: 128px !important;
+  height: 128px; */
+}
+
+.md-typeset figure.mood {
+  margin-left: 0;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  text-align: left;
+}
+
+.md-typeset figure.mood blockquote {
+  border-left: 1px dashed silver;
+}
+
+.tabbed-labels.tabbed-labels--linked a {
+  background-color: #dfdfdf;
+  margin: 0 0.1rem;
+  border-radius: 0.5rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.glightbox {
+  width: 100%;
+}
+
+.center-md-button {
+  margin: 0 auto;
+  /* display: block !important; */
+  width: 80%;
+}
+
+.twemoji {
+  padding-right: 0.5rem;
 }
