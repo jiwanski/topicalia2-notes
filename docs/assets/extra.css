@@ -1,5 +1,5 @@
 main.md-main {
-  --card-bg: #dfdfdf;
+  --card-bg: rgb(245, 245, 245);
 }
 
 .tabbed-set {
@@ -15,8 +15,8 @@ main.md-main {
 .md-typeset img,
 .md-typeset svg,
 .md-typeset video figure.span img {
-  width: 128px !important;
-  height: 128px;
+  /* width: 128px !important;
+  height: 128px; */
 }
 
 .md-typeset figure.mood {
@@ -37,4 +37,18 @@ main.md-main {
   border-radius: 0.5rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
+}
+
+.glightbox {
+  width: 100%;
+}
+
+.center-md-button {
+  margin: 0 auto;
+  /* display: block !important; */
+  width: 80%;
+}
+
+.twemoji {
+  padding-right: 0.5rem;
 }
