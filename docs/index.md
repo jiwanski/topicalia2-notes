@@ -1,8 +1,8 @@
 **Topicalia** is a small publishing experiment for language learning.
 
-It produces short PDF "courselets", built around topical lessons and recurring voices. A lesson begins with a word, a scene or a small cultural idea, which then starts to stir its classroom into creative trouble. Yes, _its_ classrom, not _you, the readers_ classroom.
+It produces short PDF courselets, built around topical lessons and recurring voices. A lesson begins with a word, a scene or a small cultural idea, which then starts to stir its classroom into creative trouble. Yes, _its_ classrom, not _you, the readers_ classroom, it already exists when the audience arrives.
 
-A typical courselet comes as student and teacher editions — with a twist.
+A typical courselet comes as student and teacher editions - with a twist.
 
 
 <div class="grid cards" markdown>
@@ -33,11 +33,13 @@ A typical courselet comes as student and teacher editions — with a twist.
 
 ## first demo
 
-**Japan 1** courselet demonstrates an English class on B2 level and features five lessons built around Japanese words: <em>tsundoku</em>, <em>wabi-sabi</em>, <em>ikigai</em>, <em>omotenashi</em> and <em>kintsugi</em>.
+**Japan 1** courselet presents an English class on B2 level and features five lessons built around Japanese words: <em>tsundoku</em>, <em>wabi-sabi</em>, <em>ikigai</em>, <em>omotenashi</em> and <em>kintsugi</em>.
 
 [download _Japan 1_ student edition (PDF)](https://github.com/jiwanski/topicalia2-notes/releases/download/japan-1-demo/topicalia-japan1-student.pdf){ .md-button }
 
 [download _Japan 1_ teacher edition (PDF)](https://github.com/jiwanski/topicalia2-notes/releases/download/japan-1-demo/topicalia-japan1-teacher.pdf){ .md-button }
+
+Both editions are intentionally short. The current showcase consists of five lessons. The point is not to cover English, but to demonstrate Topicalia approach.
 
 ## lesson structure
 
@@ -75,7 +77,7 @@ lesson
 
 Other voices may join the board too: Martha qualifies certainty, Claire retells stories, Samir explores the paths opened by <em>if</em> and Ethan keeps rewriting until a sentence simply stays with you.
 
-**Moods** are different. They are brief emotional readings of the same lesson: amused, analytical, bored, confused, impressed, irritated, sad and twisted. They arrive, leave a mark and disappear without judging further.
+**Moods** are different. They are brief emotional readings of the same lesson: amused, analytical, bored, confused, impressed, irritated, sad and twisted. They arrive, leave a mark and disappear.
 
 [read more about what influenced this approach](topicalism/gonzo.md){ .md-button }
 
@@ -95,7 +97,7 @@ Entire class roster is available as first appendix.
 
 Topicalia marks selected language features inside the content. Those marks can later become appendices: idioms, connectors, grammar areas, lesson types and other patterns that would otherwise remain scattered.
 
-The rule is deliberately freeform. An appendix should collect useful language, not every shiny object that impresses on the language route.
+The rule is deliberately freeform. An appendix should collect useful language, not every shiny object that impresses on the language journey.
 
 <figure markdown="span">
   ![Example appendix page from Japan 1](assets/screens/japan1-appendix-highlights.png){ .on-glb }
@@ -104,13 +106,13 @@ The rule is deliberately freeform. An appendix should collect useful language, n
 
 ## what comes next
 
-The next planned courselet is **Brasil 1** in Portuguese, aimed to bring Brazilian words, tropical flavours and lusophonic beauty. It will also awaken _Martha_ character, who has been waiting politely near the subjunctive zone and may finally get busy with her beloved grammar structure.
+The next planned courselet is **Brasil 1**, aimed to bring Brazilian words and the peculiar beauty of Portuguese. It will also awaken _Martha_ character, who has been waiting politely near the subjunctive zone and may finally get busy with her beloved grammar structure.
 
 Also planned is a follow-up to **Japan 1**, which will zoom in rather than move on, with a whole new unit around a single word, <em>gaman</em>, exploring patience, endurance, pressure, silence and self-control.
 
 ## behind the scenes
 
-Topicalia data is stored as HTML fragments, organized with JSON structures and transformed into PDF files by a small Python/Flask toolchain, using WeasyPrint as final renderer. There is a localization layer, which allows to switch user interface to another supported language, e.g. Spanish.
+Topicalia data is stored as HTML fragments, organized with JSON structures and transformed into PDF files by a small Python/Flask toolchain, using WeasyPrint as final renderer.
 
 While content development uses AI assistance heavily, the final material is edited and curated by hand.
 
