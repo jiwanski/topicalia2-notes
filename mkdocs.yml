@@ -34,10 +34,8 @@ docs_dir: docs
 nav:
   - home:
       - home: index.md
-  - student edition: editions/student.md
-  - teacher's book: editions/teacher.md
   - gonzo:
-      - why gonzo?: topicalism/gonzo.md
+      - why gonzo: topicalism/gonzo.md
 plugins:
   - search
   - include-markdown
