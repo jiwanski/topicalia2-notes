@@ -2,6 +2,7 @@ mkdocs
 mkdocs-include-markdown-plugin
 mkdocs-material
 mkdocs-mermaid2-plugin
+mkdocs-glightbox
 pymdown-extensions
 mkdocs-redirects
 # markdown-include  # optional, if you want to include files into pages
