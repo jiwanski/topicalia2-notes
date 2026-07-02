@@ -1,6 +1,6 @@
 **Topicalia** is a small publishing experiment for language learning.
 
-It produces short PDF courselets, built around topical lessons and recurring voices. A lesson begins with a word, a scene or a small cultural idea, which then starts to stir its classroom into creative trouble. Yes, _its_ classrom, not _you, the readers_ classroom, it already exists when the audience arrives.
+It produces short PDF courselets, built around topical lessons and recurring voices. A lesson begins with a word, a scene or a small cultural idea, which then starts to stir its classroom into creative trouble. Yes, **its** classroom, not **your** classroom - it already exists when the audience arrives.
 
 A typical courselet comes as student and teacher editions - with a twist.
 
@@ -39,7 +39,7 @@ A typical courselet comes as student and teacher editions - with a twist.
 
 [download _Japan 1_ teacher edition (PDF)](https://github.com/jiwanski/topicalia2-notes/releases/download/japan-1-demo/topicalia-japan1-teacher.pdf){ .md-button }
 
-Both editions are intentionally short. The current showcase consists of five lessons. The point is not to cover English, but to demonstrate Topicalia approach.
+Both editions are intentionally short. The current showcase consists of five lessons. The point is not to cover English, but to demonstrate the Topicalia approach.
 
 ## lesson structure
 
