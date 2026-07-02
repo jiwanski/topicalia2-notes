@@ -1,5 +1,5 @@
 main.md-main {
-  --card-bg: #dfdfdf;
+  --card-bg: rgb(245, 245, 245);
 }
 
 .tabbed-set {
@@ -47,4 +47,8 @@ main.md-main {
   margin: 0 auto;
   /* display: block !important; */
   width: 80%;
+}
+
+.twemoji {
+  padding-right: 0.5rem;
 }
