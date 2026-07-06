@@ -36,6 +36,8 @@ nav:
       - home: index.md
   - gonzo:
       - why gonzo: topicalism/gonzo.md
+  - technical:
+      - To PDF with WeasyPrint: technical/weasyprint.md
 plugins:
   - search
   - include-markdown
