@@ -79,7 +79,7 @@ Other voices may join the board too: Martha qualifies certainty, Claire retells 
 
 **Moods** are different. They are brief emotional readings of the same lesson: amused, analytical, bored, confused, impressed, irritated, sad and twisted. They arrive, leave a mark and disappear.
 
-[read more about what influenced this approach](topicalism/gonzo.md){ .md-button }
+[read more about what influenced this approach](inspirations/gonzo.md){ .md-button }
 
 Entire class roster is available as first appendix.
 
@@ -113,6 +113,8 @@ Also planned is a follow-up to **Japan 1**, which will zoom in rather than move 
 ## behind the scenes
 
 Topicalia data is stored as HTML fragments, organized with JSON structures and transformed into PDF files by a small Python/Flask toolchain, using WeasyPrint as final renderer.
+
+[read more about WeasyPrint in Topicalia](technical/weasyprint.md){ .md-button }
 
 While content development uses AI assistance heavily, the final material is edited and curated by hand.
 

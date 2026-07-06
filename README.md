@@ -4,7 +4,7 @@ Documentation for Topicalia project. Developed with MkDocs and Material theme.
 
 ## Deployment to GitHub pages
 
-Straight from primary branch:
+Run straight from `main` branch:
 
 ```
 mkdocs gh-deploy

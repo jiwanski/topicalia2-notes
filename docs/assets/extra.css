@@ -28,7 +28,7 @@ main.md-main {
 }
 
 .md-typeset figure.mood blockquote {
-  border-left: 1px dashed silver;
+  border-left: 1px dashed var(--card-bg);
 }
 
 .tabbed-labels.tabbed-labels--linked a {
@@ -51,4 +51,8 @@ main.md-main {
 
 .twemoji {
   padding-right: 0.5rem;
+}
+
+table th {
+  background-color: var(--card-bg);
 }
