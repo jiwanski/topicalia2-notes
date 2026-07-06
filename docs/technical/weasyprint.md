@@ -2,25 +2,25 @@
 
 Topicalia began as a web application and its printable courselets originally relied on browser-generated PDFs. They worked well enough for quick prototypes, but every improvement in the editorial design - running headers, synchronized student and teacher editions, page numbering, etc. - pushed the browser further outside its comfort zone.
 
-Publishing those books turned out to be much easier than expected, largely thanks to [WeasyPrint](https://weasyprint.org), which gradually stopped feeling like a risky alternative and became the natural pipeline element:
+Out of many considered solutions, **WeasyPrint** gradually stopped feeling like a risky alternative and became the natural pipeline element:
 
 ````
 HTML content + JSON metadata
         ↓
-Flask + Jinja
+web app (Flask + Jinja)
         ↓
 WeasyPrint
         ↓
 Student and Teacher editions as PDF
 ````
 
-The project still has a web UI, but today it serves mainly as an editorial tool, debugging preview and part of publishing pipeline.
+The project still has a web UI, but today it serves mainly as an editorial tool, debugging preview and part of publishing process.
 
 ## why WeasyPrint?
 
-Here is a subset of solved problems and publishing improvements. It is worth noting that **Japan 1** demo used older 52.5 version.
+Here is a subset of solved problems and publishing improvements. It is worth noting that although **Japan 1** demo used older 52.5 version, it was still able to implement a solid layout.
 
-| PDF aspect                  | browser (Chrome)            | WeasyPrint 52.5                         |
+| PDF authoring               | browser (Chrome)            | WeasyPrint 52.5                         |
 |-----------------------------|-----------------------------|-----------------------------------------|
 | **running headers/footers** | limited, browser-controlled | fully customizable with `@page`         |
 | **page numbering**          | limited, browser-controlled | flexible counters and references        |
@@ -33,15 +33,15 @@ Here is a subset of solved problems and publishing improvements. It is worth not
 | **CSS learning curve**      | standard CSS                | requires understanding paged CSS        |
 
 
-## CSS Paged Media Module
+## paged CSS
 
-Most publishing features in Topicalia are implemented with ordinary CSS.
+Most publishing features in Topicalia are created with ordinary CSS.
 
-Running heads, page numbers and edition metadata are defined using page areas and named strings rather than custom rendering code. That keeps the publishing layer remarkably small.
+Running headers, footers and page numbers are defined using page areas and named strings instead of custom rendering Python code. That keeps the publishing layer remarkably small.
 
 <figure markdown="span">
   ![named page (left) running footer, page number, running header](../assets/screens/page-areas-1.png){ .on-glb }
-  <figcaption>a named page template with running header, page number and running footer</figcaption>
+  <figcaption>a named page template<br/>with running header, footer and page number</figcaption>
 </figure>
 
 ## surprisingly little Python
