@@ -34,8 +34,8 @@ docs_dir: docs
 nav:
   - home:
       - home: index.md
-  - gonzo:
-      - why gonzo: topicalism/gonzo.md
+  - inspirations:
+      - Gonzo: inspirations/gonzo.md
   - technical:
       - To PDF with WeasyPrint: technical/weasyprint.md
 plugins:
